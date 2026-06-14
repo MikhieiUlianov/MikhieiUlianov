@@ -15,22 +15,22 @@
 <br>
 
 <p align="center">
-  👋 <strong>Welcome to my digital space!</strong> I am a Software Engineer originally from Ukraine, currently living and building systems in Sweden. <!--[cite: 3] -->
+  👋 <strong>Welcome to my digital space!</strong> I am a Software Engineer originally from Ukraine, currently living and building systems in Sweden.
   <br>
-  I specialize in architecting fast, production-ready web applications with a strong emphasis on scalable design and security practices. <!--[cite: 3] -->
+  I specialize in architecting fast, production-ready web applications with a strong emphasis on scalable design and security practices.
 </p>
 
 ---
 
 ### 🚀 Quick Overview
-*  **Core Focus:** Building modern full-stack web applications using **React, TypeScript, Next.js, and Node.js**. <!--[cite: 3] -->
-*  **Architecture:** Emphasizing structured clean-code methodologies like **Feature-Sliced Design (FSD)** on the frontend and **Layered Architecture** on the backend. <!--[cite: 3] -->
-*  **DevOps & Automation:** Managing clean deployment workflows and containerized application lifecycles using **Docker & Kubernetes (K8s)**. <!--[cite: 3] -->
-*  **AppSec Drive:** Writing secure-by-design source code and implementing robust authentication mechanisms, aiming to specialize long-term in Application Security. <!--[cite: 3] -->
+*  **Core Focus:** Building modern full-stack web applications using **React, TypeScript, Next.js, and Node.js**.
+*  **Architecture:** Emphasizing structured clean-code methodologies like **Feature-Sliced Design (FSD)** on the frontend and **Layered Architecture** on the backend.
+*  **DevOps & Automation:** Managing clean deployment workflows and containerized application lifecycles using **Docker & Kubernetes (K8s)**.
+*  **AppSec Drive:** Writing secure-by-design source code and implementing robust authentication mechanisms, aiming to specialize long-term in Application Security.
 
 ---
 
-## Tech Stack & Ecosystem <!--[cite: 3] -->
+## Tech Stack & Ecosystem
 
 <table width="100%">
   <tr>
@@ -49,7 +49,7 @@
       <img title="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img title="Redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
       <br><br>
-      <sub><strong>Libraries & Styles:</strong> Tanstack Query • React Hook Form • Zustand • React Context API • CSS • SCSS • styled-components</sub> <!--[cite: 3] -->
+      <sub><strong>Libraries & Styles:</strong> Tanstack Query • React Hook Form • Zustand • React Context API • CSS • SCSS • styled-components</sub>
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@
       <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img title="Prisma" height="30" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
       <img title="Sequelize" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-      <span>• SQL</span> <!--[cite: 3] -->
+      <span>• SQL</span>
     </td>
   </tr>
   <tr>
@@ -85,17 +85,26 @@
       <img title="Kubernetes" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
       <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <br><br>
-      <sub>GitHub • Scrum / Agile Framework • Test-Driven Development (TDD) • Vitest <i>(learning)</i></sub> <!--[cite: 3] -->
+      <sub>GitHub • Scrum / Agile Framework • Test-Driven Development (TDD) • Vitest <i>(learning)</i></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-##  Professional Credentials <!--[cite: 3] -->
+## 🎓 Education & Academic Path
+### **KTH Royal Institute of Technology** *(Stockholm, Sweden)*
+**Degree Program:** Master of Science in Engineering (Civilingenjör) – Computer Science  
+**Timeline:** August 2026 – June 2031 *(5-Year Program)*  
+
+> Pursuing deep academic foundations in systemic software engineering, algorithm theory, cloud infrastructure, and defensive computing systems at one of Europe's leading technical universities.
+
+---
+
+## Professional Credentials
 👉 **[Click Here to Explore My Verified Certificates & Coursework Registry](https://github.com/MikhieiUlianov/certificates)**
 
-> This dedicated repository acts as an open registry hosting my comprehensive collection of engineering credentials, verified course syllabi, and structural assignments—spanning full-stack engineering, algorithms, database logic, and systems containerization. <!--[cite: 3] -->
+> This dedicated repository acts as an open registry hosting my comprehensive collection of engineering credentials, verified course syllabi, and structural assignments—spanning full-stack engineering, algorithms, database logic, and systems containerization.
 
 ---
 
@@ -113,9 +122,9 @@
 ---
 
 ## Strategic Milestones
-- [x] Design structural full-stack systems utilizing clean Feature-Sliced Frontend architectures. <!--[cite: 3] -->
-- [x] Implement scalable environments via containerized Docker and Kubernetes pipelines. <!--[cite: 3] -->
-- [ ] Contribute engineering value to massive, globally impactful software ecosystems. <!--[cite: 3] -->
+- [x] Design structural full-stack systems utilizing clean Feature-Sliced Frontend architectures.
+- [x] Implement scalable environments via containerized Docker and Kubernetes pipelines.
+- [ ] Contribute engineering value to massive, globally impactful software ecosystems.
 
 <br>
 
