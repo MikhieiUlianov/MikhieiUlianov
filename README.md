@@ -44,10 +44,10 @@
   <tr>
     <td><strong>Frontend Technologies</strong></td>
     <td>
-      <img title="React.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img title="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-      <img title="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img title="Redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+      <img title="Zustand" height="30" src="https://img.shields.io/badge/Zustand-4B3223?style=flat&logo=pmndrs&logoColor=white">
       <br><br>
       <sub><strong>Libraries & Styles:</strong> Tanstack Query • React Hook Form • Zustand • React Context API • CSS • SCSS • styled-components</sub>
     </td>
@@ -71,21 +71,24 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Authentication & Security</strong></td>
-    <td>
-      <img title="JWT" height="30" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=00f9ff">
-      <img title="Lucia Auth" height="30" src="https://img.shields.io/badge/Lucia_Auth-5E17EB?style=flat&logo=lucia&logoColor=white">
-      <img title="Auth.js" height="30" src="https://img.shields.io/badge/Auth.js-000000?style=flat&logo=next.js&logoColor=white">
-    </td>
-  </tr>
-  <tr>
     <td><strong>DevOps & Methodologies</strong></td>
     <td>
       <img title="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
       <img title="Kubernetes" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+      <img title="CI/CD" height="30" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white">
       <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <br><br>
       <sub>GitHub • Scrum / Agile Framework • Test-Driven Development (TDD) • Vitest <i>(learning)</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Auth & Security</strong></td>
+    <td>
+      <img title="OAuth 2.0 / OIDC" height="30" src="https://img.shields.io/badge/OAuth_2.0_&_OIDC-F7931E?style=flat&logo=auth0&logoColor=white">
+      <img title="JWT" height="30" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=00f9ff">
+      <img title="Lucia Auth" height="30" src="https://img.shields.io/badge/Lucia_Auth-5E17EB?style=flat&logo=lucia&logoColor=white">
+      <br><br>
+      <sub><strong>Concepts:</strong> RBAC • MFA • Security-by-Design • Session Management • Input Sanitization</sub>
     </td>
   </tr>
 </table>
