@@ -114,11 +114,6 @@
 ## 📊 Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikhieiUlianov&show_icons=true&theme=tokyonight" alt="Mikhiei's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhieiUlianov&layout=compact&theme=tokyonight" alt="Mikhiei's Top Languages" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=MikhieiUlianov&theme=tokyonight&hide_border=true" alt="Mikhiei's Commit Streak" width="100%" />
 </p>
 
