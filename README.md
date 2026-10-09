@@ -24,6 +24,7 @@ I am especially interested in application security and secure-by-design engineer
 - **Backend:** Node.js, Express, Hono
 - **Architecture:** Feature-Sliced Design (frontend), Layered Architecture (backend)
 - **DevOps:** Docker, Kubernetes, CI/CD workflows
+- **Cloud:** Currently learning AWS cloud technologies
 - **Data:** PostgreSQL, MySQL, Prisma, Sequelize
 - **Security:** OAuth 2.0 / OIDC, JWT, RBAC, MFA, session management, input sanitization
 
@@ -33,6 +34,7 @@ I am especially interested in application security and secure-by-design engineer
   Master of Science in Engineering (Civilingenjör), Computer Science  
   **August 2026 – June 2031**
 - Deepening expertise in application security while continuing full-stack system design.
+- Learning AWS cloud technologies and cloud infrastructure.
 
 ## Featured links
 
